@@ -24,3 +24,5 @@
 ## Connect with me : 
 * [LinkedIn](www.linkedin.com/in/d3nominator)
 * [GitHub](https://github.com/d3nominator) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3nominator)](https://github.com/d3nominator/github-readme-stats)
