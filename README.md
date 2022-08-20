@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**d3nominator/d3nominator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* My name is (**Rishabh Kumar Pandey**), a programming enthusiast
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some languages I am familiar with 
+* C/C++
+* Python
+* Javascript
+* HTML/CSS
+
+Some things which I am currently learning 
+* Reacts.js and Node.js
+* Back-end development
+
+Some things I like to do
+* I like to work on projects related to front-end
+* Competitive Prgramming. I am active on Codeforces, CodeChef and Atcoder. I go by the handle D3nominator.
+
+Connect with me
+* [LinkedIn](www.linkedin.com/in/d3nominator)
+* [GitHub](https://github.com/d3nominator) 
