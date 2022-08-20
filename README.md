@@ -11,6 +11,7 @@
 * HTML/CSS
 
 ## Some things which I am currently learning 
+* Java
 * Reacts.js and Node.js
 * Back-end development
 * Machine Learning
