@@ -17,7 +17,7 @@
 * Machine Learning
 
 ## Some things I like to do
-* I like to work on projects related to front-end.
+* I like to work on projects related to Back-end.
 * Competitive Prgramming. I am active on Codeforces, CodeChef and Atcoder.
   I go by the handle **D3nominator**.
 
