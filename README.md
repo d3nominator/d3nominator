@@ -22,6 +22,6 @@
   I go by the handle **D3nominator**.
 
 ## Connect with me : 
-* [LinkedIn](www.linkedin.com/in/d3nominator)
+* [LinkedIn](https://www.linkedin.com/in/d3nominator/)
 * [GitHub](https://github.com/d3nominator) 
 
