@@ -25,3 +25,6 @@
 * [LinkedIn](https://www.linkedin.com/in/d3nominator/)
 * [GitHub](https://github.com/d3nominator) 
 
+## Stats
+![Visitor Count](https://profile-counter.glitch.me/d3nominator/count.svg)
+
