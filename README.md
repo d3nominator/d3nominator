@@ -32,3 +32,5 @@
 ## Stats
 ![Visitor Count](https://profile-counter.glitch.me/d3nominator/count.svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=d3nominator&theme=tokyonight)](https://git.io/streak-stats)
+
