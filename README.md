@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * My name is **Rishabh Kumar Pandey**, a programming enthusiast.
-* I am a third year student at **Vellore institute of Technology, Vellore**.
+* I am a final year student at **Vellore institute of Technology, Vellore**.
 * I am pursuing **B.Tech** in Electronics and Communication Branch.
 
 ## Some languages I am familiar with 
