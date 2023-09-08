@@ -8,15 +8,18 @@
 
 * C/C++
 * Python
-
+* Java
 
 ## Some things which I am currently learning 
 
 * C/C++
+* Python
 * Data Science
 * Machine Learning
 
 ## Some things I like to do
+* Low Level programming
+* Simulation programming/Physics simulation
 * I like to work on projects related to Data Science and machine learning.
 * Competitive Prgramming. I am active on Codeforces, CodeChef and Atcoder.
   I go by the handle **d3nominator**.
