@@ -21,8 +21,7 @@
 * Low Level programming
 * Simulation programming/Physics simulation
 * I like to work on projects related to Data Science and machine learning.
-* Competitive Prgramming. I am active on Codeforces, CodeChef and Atcoder.
-  I go by the handle **d3nominator**.
+* Competitive Prgramming.
 
 ## Connect with me : 
 * [LinkedIn](https://www.linkedin.com/in/d3nominator/)
