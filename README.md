@@ -4,12 +4,6 @@
 * I am a final year student at **Vellore institute of Technology, Vellore**.
 * I am pursuing **B.Tech** in Electronics and Communication Branch.
 
-## Some languages I am familiar with 
-
-* C/C++
-* Python
-* Java
-
 ## Some things which I am currently learning 
 
 * C/C++
