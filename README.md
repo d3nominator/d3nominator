@@ -17,11 +17,6 @@
 * I like to work on projects related to Data Science and machine learning.
 * Competitive Prgramming.
 
-## Connect with me : 
-* [LinkedIn](https://www.linkedin.com/in/d3nominator/)
-* [GitHub](https://github.com/d3nominator) 
-* [Twitter](https://twitter.com/d3nominator)
-
 ## Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=d3nominator&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
